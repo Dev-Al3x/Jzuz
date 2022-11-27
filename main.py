@@ -1,1 +1,1 @@
-print("kosmas varelas")
+VERSION=0.1
